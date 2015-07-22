@@ -1,2 +1,5 @@
 name: Sean Martin
 markdown: kramdown
+syntax-highlighting:
+  enabled : true
+  css: syntax.css

@@ -3,6 +3,7 @@ layout: post
 title: "First blog post"
 date: 2015-7-22
 ---
+
 I have an exciting new website which is still under construction. I'm not sure how much I'm going to be updating this blog, but for a first post, here's a Haskell program that generates exponentially distributed random numbers using [inverse transform sampling](https://en.wikipedia.org/wiki/Inverse_transform_sampling). At the moment, you'll need to pipe the output somewhere useful since it doesn't do output files.
 
 ```Haskell

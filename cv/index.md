@@ -94,26 +94,26 @@ Teaching/ Research Experience
 
 **Instructor**
 
-NYU PEP tutorial/demonstration on vowel plotting and normalization\
+NYU PEP tutorial/demonstration on vowel plotting and normalization
 
 **Teaching Assistant**
 
-LING-UA 24 - Patterns In Language (Introduction to Language Technology)\
+LING-UA 24 - Patterns In Language (Introduction to Language Technology)
 Instructors: Professors Frans Adriaans and Lucas Champollion
 
 **Research Assistant**
 
-Department of Linguistics, New York University\
+Department of Linguistics, New York University
 Supervisor: Professor Lisa Davidson
 
 **Co-Organizer/Instructor**
 
-LANYU workshop series on Linguistic Data Analysis in R\
+LANYU workshop series on Linguistic Data Analysis in R
 Co-instructor: Tal Linzen
 
 **Teaching Assistant**
 
-LING-UA 11 - Sound and Language\
+LING-UA 11 - Sound and Language
 Instructor: Professor Lisa Davidson
 
 **Organizer/Instructor**
@@ -122,12 +122,12 @@ LANYU workshop on plotting and graphics in R
 
 **Teaching Assistant**
 
-LING-UA 1 - Language\
+LING-UA 1 - Language
 Instructor: Professor Gillian Gallagher
 
 **Course Assistant**
 
-LING-UA 12 - Phonological Analysis\
+LING-UA 12 - Phonological Analysis
 Instructor: Professor Maria Gouskova
 
 Academic Service
@@ -151,3 +151,7 @@ Technical
 Proficient in: R, Python, Praat Scripting, Julia
 
 Familiar with: Octave/Matlab, Bash scripting
+
+**Computing Experience:**
+
+Experience with computing in Unix environments (Linux/OSX), as well as Windows

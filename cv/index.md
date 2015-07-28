@@ -3,13 +3,18 @@ layout: cv
 name: CV - Sean Martin
 ---
 
+# Sean C. Martin
+-----------------------------------------
+
 Contact Information
 ===================
 
-NYU Department of Linguistics &
-*phone:* 510-301-2920\
-10 Washington Place & *email:* sean.martin@nyu.edu\
-New York, NY 10003 &
+NYU Department of Linguistics
+10 Washington Place
+New York, NY 10003
+
+*phone:* 510-301-2920
+*email:* sean.martin@nyu.edu
 
 Research Interests
 ==================

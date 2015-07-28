@@ -4,10 +4,10 @@ name: CV - Sean Martin
 ---
 
 # Sean C. Martin
+
 -----------------------------------------
 
-Contact Information
-===================
+## Contact Information
 
 NYU Department of Linguistics
 10 Washington Place
@@ -16,15 +16,14 @@ New York, NY 10003
 *phone:* 510-301-2920
 *email:* sean.martin@nyu.edu
 
-Research Interests
-==================
+## Research Interests
+
 
 Phonetic category learning, phonetic/phonological representations,
 computational models of learning, linguistic variation and change,
 quantitative methods in linguistics.
 
-Education
-=========
+## Education
 
 **New York University**, New York, NY
 
@@ -39,47 +38,44 @@ Adriaans](https://files.nyu.edu/fa46/public/)
 
 B.A., [Linguistics](http://www.linguistics.ucla.edu/), May 2008
 
-Publications
-============
+## Publications
 
-Davidson, Lisa, Sean Martin, and Colin Wilson *Stabilizing the
+- Davidson, Lisa, Sean Martin, and Colin Wilson *Stabilizing the
 production of nonnative consonant clusters with acoustic variability*.
 Journal of the Acoustical Society of America, vol. 137 pp. 856-872
 
-Wilson, Colin, Lisa Davidson, and Sean Martin *Effects of
+- Wilson, Colin, Lisa Davidson, and Sean Martin *Effects of
 acoustic-phonetic detail on cross-language speech production*.
 Journal of Memory and Language, vol. 77, pp. 1-24
 
-Presentations
-=============
+### Presentations
 
-Davidson, Lisa, Sean Martin and Colin Wilson. *Acoustic variability aids
-the interpretation of phonetic detail in cross-language speech
-production*.
-Talk presented at the 14th Conference on Laboratory Phonology,
-Tachikawa/Tokyo, Japan, July 2014.
+- Davidson, Lisa, Sean Martin and Colin Wilson. *Acoustic variability aids
+  the interpretation of phonetic detail in cross-language speech
+  production*.
+  Talk presented at the 14th Conference on Laboratory Phonology,
+  Tachikawa/Tokyo, Japan, July 2014.
 
-Martin, Sean, Lisa Davidson, and Colin Wilson. *Variability attenuates
-sensitivity to acoustic detail in cross-language speech production*.
-Poster presented at the 165th Meeting of the Acoustical Society of
-America, Montreal, Quebec, Canada. June 2013.
+- Martin, Sean, Lisa Davidson, and Colin Wilson. *Variability attenuates
+  sensitivity to acoustic detail in cross-language speech production*.
+  Poster presented at the 165th Meeting of the Acoustical Society of
+  America, Montreal, Quebec, Canada. June 2013.
 
-Martin, Sean. *Variation in agreement in Princeville African American
-English*.
-Poster presented at NWAV 41, Bloomington, Indiana, October 2012.
+- Martin, Sean. *Variation in agreement in Princeville African American
+  English*.
+  Poster presented at NWAV 41, Bloomington, Indiana, October 2012.
 
-Davidson, Lisa, and Colin Wilson, and Sean Martin. *Phonological bias,
-phonetic likelihood: a Bayesian model of non-native cluster production
-errors*.
-Poster presented at LabPhon 13. Stutgart, Germany, 2012.
+- Davidson, Lisa, and Colin Wilson, and Sean Martin. *Phonological bias,
+  phonetic likelihood: a Bayesian model of non-native cluster production
+  errors*.
+  Poster presented at LabPhon 13. Stutgart, Germany, 2012.
 
-Martin, Sean. *Recovery of articulatory information from acoustics using
-linear mixed-effects models*.
-Poster presented at the 162nd Meeting of the Acoustical Society of
-America, San Diego, CA. October 2011.
+- Martin, Sean. *Recovery of articulatory information from acoustics using
+  linear mixed-effects models*.
+  Poster presented at the 162nd Meeting of the Acoustical Society of
+  America, San Diego, CA. October 2011.
 
-Awards
-======
+## Awards
 
 -   NSF Doctoral Dissertation Research Improvement Grant (award \#
     1349080), 2014-2015
@@ -89,8 +85,8 @@ Awards
 
 -   NYU Henry McCracken Fellowship, 2009-2014
 
-Teaching/ Research Experience
-=============================
+## Teaching/ Research Experience
+
 
 **Instructor**
 

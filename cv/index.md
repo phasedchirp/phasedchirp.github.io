@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: cv
 name: CV - Sean Martin
 ---
-
-# Sean C. Martin
 
 Contact Information
 ===================

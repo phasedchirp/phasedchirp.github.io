@@ -10,10 +10,13 @@ name: CV - Sean Martin
 ## Contact Information
 
 NYU Department of Linguistics
+
 10 Washington Place
+
 New York, NY 10003
 
 *phone:* 510-301-2920
+
 *email:* sean.martin@nyu.edu
 
 ## Research Interests
@@ -27,9 +30,9 @@ quantitative methods in linguistics.
 
 **New York University**, New York, NY
 
-Ph.D., [Linguistics](http://linguistics.as.nyu.edu/), 2009-2015
+Ph.D., [Linguistics](http://linguistics.as.nyu.edu/), 2015 (expected)
 
-Dissertation: *Bias in novel category learning*
+Dissertation: [*Bias in novel category learning*](https://dl.dropboxusercontent.com/u/24464501/Martin_diss_DRAFT.pdf)
 
 Advisors: [Lisa Davidson](https://wp.nyu.edu/lisa_davidson/), [Frans
 Adriaans](https://files.nyu.edu/fa46/public/)

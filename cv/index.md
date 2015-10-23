@@ -85,7 +85,10 @@ Co-instructor (with Tal Lizen) for a series of departmental workshops on statist
 - Topics ranged from basic descriptive statistics and exploratory analysis to linear and logistic regression
 
 
-## Publications
+Research
+============
+
+### Publications
 
 - Davidson, Lisa, Sean Martin, and Colin Wilson *Stabilizing the
 production of nonnative consonant clusters with acoustic variability*.
@@ -95,7 +98,7 @@ Journal of the Acoustical Society of America, vol. 137 pp. 856-872
 acoustic-phonetic detail on cross-language speech production*.
 Journal of Memory and Language, vol. 77, pp. 1-24
 
-## Presentations
+### Presentations
 
 - Davidson, Lisa, Sean Martin and Colin Wilson. *Acoustic variability aids
   the interpretation of phonetic detail in cross-language speech
@@ -122,7 +125,8 @@ Journal of Memory and Language, vol. 77, pp. 1-24
   Poster presented at the 162nd Meeting of the Acoustical Society of
   America, San Diego, CA. October 2011.
 
-## Awards
+Awards
+============
 
 -   NSF Doctoral Dissertation Research Improvement Grant (award \#
     1349080), 2014-2015

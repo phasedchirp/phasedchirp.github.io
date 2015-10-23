@@ -46,6 +46,45 @@ Technical
 -Experienced with R and Python for data analysis
 -Extensive experience with Unix/Linux computing environments
 
+
+Experience
+=========
+
+####Research Assistant, NYU Department of Linguistics:
+
+Assisted PIs Lisa Davidson (NYU) and Colin Wilson (Johns Hopkins) on a series of projects investigating the roles of phonetic and phonological factors in non-native speech perception.
+
+-Assisted in design and preparation of experimental materials and protocols
+-Trained and supervised undergraduate research assistants
+-Performed data processing and analysis
+
+####Lab Manager, NYU Department of Linguistics:
+
+Manager of the Phonetics and Experimental Phonology Laboratory.
+
+-Maintained lab equipment
+-Provided technical support for students and faculty
+-Developed/updated data collection and analysis pipelines
+-Maintained documentation for lab resources
+
+
+Selected Teaching Experience
+============================
+
+####Teaching Assistant, NYU Department of Linguistics:
+
+TA for newly introduced course introducing students to concepts in language technology/ computational linguistics with Frans Adriaans and Lucas Champollion
+
+- Assisted in development of course materials
+-Built and deployed web-based platform for interactive programming assignments
+
+####Instructor/Co-organizer, NYU Department of Linguistics
+
+Co-instructor (with Tal Lizen) for a series of departmental workshops on statistical methods and data analysis
+
+-Topics ranged from basic descriptive statistics and exploratory analysis to linear and logistic regression
+
+
 ## Publications
 
 - Davidson, Lisa, Sean Martin, and Colin Wilson *Stabilizing the
@@ -56,37 +95,7 @@ Journal of the Acoustical Society of America, vol. 137 pp. 856-872
 acoustic-phonetic detail on cross-language speech production*.
 Journal of Memory and Language, vol. 77, pp. 1-24
 
-
-Experience
-=========
-
-Research Assistant, NYU Department of Linguistics:
-  Assisted PIs Lisa Davidson (NYU) and Colin Wilson (Johns Hopkins) on a series of projects investigating the roles of phonetic and phonological factors in non-native speech perception.
-  -   Assisted in design and preparation of experimental materials and protocols
-  -   Trained and supervised undergraduate research assistants
-  -   Performed data processing and analysis
-
-Lab Manager, NYU Department of Linguistics:
-  Manager of the Phonetics and Experimental Phonology Laboratory.
-  -   Maintained lab equipment
-  -   Provided technical support for students and faculty
-  -   Developed/updated data collection and analysis pipelines
-  -   Maintained documentation for lab resources
-
-
-Selected Teaching Experience
-============================
-
-Teaching Assistant, NYU Department of Linguistics:
-  TA for newly introduced course introducing students to concepts in language technology/ computational linguistics with Frans Adriaans and Lucas Champollion
-  -   Assisted in development of course materials
-  -   Built and deployed web-based platform for interactive programming assignments
-
-Instructor/Co-organizer, NYU Department of Linguistics
-  Co-instructor (with Tal Lizen) for a series of departmental  workshops on statistical methods and data analysis
-  -   Topics ranged from basic descriptive statistics and exploratory analysis to linear and logistic regression
-
-### Presentations
+## Presentations
 
 - Davidson, Lisa, Sean Martin and Colin Wilson. *Acoustic variability aids
   the interpretation of phonetic detail in cross-language speech

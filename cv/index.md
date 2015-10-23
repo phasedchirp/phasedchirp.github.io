@@ -9,28 +9,24 @@ name: CV - Sean Martin
 
 ## Contact Information
 
-NYU Department of Linguistics
-
-10 Washington Place
-
-New York, NY 10003
-
 *phone:* 510-301-2920
 
 *email:* sean.martin@nyu.edu
 
-## Research Interests
+## Profile
 
 
-Phonetic category learning, phonetic/phonological representations,
-computational models of learning, linguistic variation and change,
-quantitative methods in linguistics.
+Over five years of experience in individual and collaborative
+experimental research.
+Extensive practical experience with a variety of data analysis methods.
+Ability and enthusiasm for learning new tools and methods to accomplish
+goals.
 
 ## Education
 
 **New York University**, New York, NY
 
-Ph.D., [Linguistics](http://linguistics.as.nyu.edu/), 2015 (expected)
+Ph.D., [Linguistics](http://linguistics.as.nyu.edu/), September 2015
 
 Dissertation: [*Bias in novel category learning*](https://dl.dropboxusercontent.com/u/24464501/Martin_diss_DRAFT.pdf)
 
@@ -41,6 +37,15 @@ Adriaans](https://files.nyu.edu/fa46/public/)
 
 B.A., [Linguistics](http://www.linguistics.ucla.edu/), May 2008
 
+Technical
+=========
+
+**Programming Languages:**
+
+-Programming languages: Python, R, Octave/Matlab, Julia, Bash scripting
+-Experienced with R and Python for data analysis
+-Extensive experience with Unix/Linux computing environments
+
 ## Publications
 
 - Davidson, Lisa, Sean Martin, and Colin Wilson *Stabilizing the
@@ -50,6 +55,36 @@ Journal of the Acoustical Society of America, vol. 137 pp. 856-872
 - Wilson, Colin, Lisa Davidson, and Sean Martin *Effects of
 acoustic-phonetic detail on cross-language speech production*.
 Journal of Memory and Language, vol. 77, pp. 1-24
+
+
+Experience
+=========
+
+Research Assistant, NYU Department of Linguistics:
+  Assisted PIs Lisa Davidson (NYU) and Colin Wilson (Johns Hopkins) on a series of projects investigating the roles of phonetic and phonological factors in non-native speech perception.
+  -   Assisted in design and preparation of experimental materials and protocols
+  -   Trained and supervised undergraduate research assistants
+  -   Performed data processing and analysis
+
+Lab Manager, NYU Department of Linguistics:
+  Manager of the Phonetics and Experimental Phonology Laboratory.
+  -   Maintained lab equipment
+  -   Provided technical support for students and faculty
+  -   Developed/updated data collection and analysis pipelines
+  -   Maintained documentation for lab resources
+
+
+Selected Teaching Experience
+============================
+
+Teaching Assistant, NYU Department of Linguistics:
+  TA for newly introduced course introducing students to concepts in language technology/ computational linguistics with Frans Adriaans and Lucas Champollion
+  -   Assisted in development of course materials
+  -   Built and deployed web-based platform for interactive programming assignments
+
+Instructor/Co-organizer, NYU Department of Linguistics
+  Co-instructor (with Tal Lizen) for a series of departmental  workshops on statistical methods and data analysis
+  -   Topics ranged from basic descriptive statistics and exploratory analysis to linear and logistic regression
 
 ### Presentations
 
@@ -88,69 +123,3 @@ Journal of Memory and Language, vol. 77, pp. 1-24
 
 -   NYU Henry McCracken Fellowship, 2009-2014
 
-## Teaching/ Research Experience
-
-
-**Instructor**
-
-NYU PEP tutorial/demonstration on vowel plotting and normalization
-
-**Teaching Assistant**
-
-LING-UA 24 - Patterns In Language (Introduction to Language Technology)
-Instructors: Professors Frans Adriaans and Lucas Champollion
-
-**Research Assistant**
-
-Department of Linguistics, New York University
-Supervisor: Professor Lisa Davidson
-
-**Co-Organizer/Instructor**
-
-LANYU workshop series on Linguistic Data Analysis in R
-Co-instructor: Tal Linzen
-
-**Teaching Assistant**
-
-LING-UA 11 - Sound and Language
-Instructor: Professor Lisa Davidson
-
-**Organizer/Instructor**
-
-LANYU workshop on plotting and graphics in R
-
-**Teaching Assistant**
-
-LING-UA 1 - Language
-Instructor: Professor Gillian Gallagher
-
-**Course Assistant**
-
-LING-UA 12 - Phonological Analysis
-Instructor: Professor Maria Gouskova
-
-Academic Service
-================
-
-Lab Manager, NYU Phonetics and Experimental Phonology Lab (2011-present)
-
-Student Member of Computational Phonology Search Committee (2012-2013
-academic year)
-
-Student Member of Phonology Search Committee (2010-2011 academic year)
-
-Vice president of the Linguistics Association of New York University
-(LANYU) (2010-2011 academic year)
-
-Technical
-=========
-
-**Programming Languages:**
-
-Proficient in: R, Python, Praat Scripting, Julia
-
-Familiar with: Octave/Matlab, Bash scripting
-
-**Computing Experience:**
-
-Experience with computing in Unix environments (Linux/OSX), as well as Windows

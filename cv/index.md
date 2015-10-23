@@ -37,8 +37,7 @@ Adriaans](https://files.nyu.edu/fa46/public/)
 
 B.A., [Linguistics](http://www.linguistics.ucla.edu/), May 2008
 
-Technical
-=========
+## Technical
 
 **Programming Languages:**
 
@@ -47,8 +46,7 @@ Technical
 -Extensive experience with Unix/Linux computing environments
 
 
-Experience
-=========
+##Experience
 
 ####Research Assistant, NYU Department of Linguistics:
 
@@ -68,8 +66,7 @@ Manager of the Phonetics and Experimental Phonology Laboratory.
 -Maintained documentation for lab resources
 
 
-Selected Teaching Experience
-============================
+##Selected Teaching Experience
 
 ####Teaching Assistant, NYU Department of Linguistics:
 
@@ -85,8 +82,7 @@ Co-instructor (with Tal Lizen) for a series of departmental workshops on statist
 - Topics ranged from basic descriptive statistics and exploratory analysis to linear and logistic regression
 
 
-Research
-============
+##Research
 
 ### Publications
 
@@ -125,8 +121,7 @@ Journal of Memory and Language, vol. 77, pp. 1-24
   Poster presented at the 162nd Meeting of the Acoustical Society of
   America, San Diego, CA. October 2011.
 
-Awards
-============
+##Awards
 
 -   NSF Doctoral Dissertation Research Improvement Grant (award \#
     1349080), 2014-2015

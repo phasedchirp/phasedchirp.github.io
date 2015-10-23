@@ -76,13 +76,13 @@ Selected Teaching Experience
 TA for newly introduced course introducing students to concepts in language technology/ computational linguistics with Frans Adriaans and Lucas Champollion
 
 - Assisted in development of course materials
--Built and deployed web-based platform for interactive programming assignments
+- Built and deployed web-based platform for interactive programming assignments
 
 ####Instructor/Co-organizer, NYU Department of Linguistics
 
 Co-instructor (with Tal Lizen) for a series of departmental workshops on statistical methods and data analysis
 
--Topics ranged from basic descriptive statistics and exploratory analysis to linear and logistic regression
+- Topics ranged from basic descriptive statistics and exploratory analysis to linear and logistic regression
 
 
 ## Publications

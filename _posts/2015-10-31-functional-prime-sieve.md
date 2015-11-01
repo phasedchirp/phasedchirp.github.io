@@ -22,4 +22,4 @@ listPrimes :: Integral a => a -> [a]
 listPrimes n = take n $ nubBy (\x y-> x`mod`y==0) [2..n]
 {% endhighlight %}
 
-Next project will hopefully be slightly more practical.
+The next project will possibly be something slightly more practical.

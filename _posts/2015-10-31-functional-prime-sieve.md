@@ -17,7 +17,7 @@ If instead, you want a list containing n primes:
 
 {% highlight Haskell %}
 -- generate a list of n prime numbers
---import Data.List
+import Data.List
 listPrimes :: Integral a => a -> [a]
 listPrimes n = take n $ nubBy (\x y-> x`mod`y==0) [2..n]
 {% endhighlight %}

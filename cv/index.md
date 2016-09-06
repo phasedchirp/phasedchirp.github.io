@@ -9,18 +9,9 @@ name: CV - Sean Martin
 
 ## Contact Information
 
-*phone:* 510-301-2920
+\textsc{location:} Oakland, California\hfill \textsc{website:} [phasedchirp.github.io](https://phasedchirp.github.io)  
+\textsc{email:} sean.martin@nyu.edu \hfill \textsc{phone:} 510-301-2920  
 
-*email:* sean.martin@nyu.edu
-
-## Profile
-
-
-Over five years of experience in individual and collaborative
-experimental research.
-Extensive practical experience with a variety of data analysis methods.
-Ability and enthusiasm for learning new tools and methods to accomplish
-goals.
 
 ## Education
 
@@ -37,54 +28,43 @@ Adriaans](https://files.nyu.edu/fa46/public/)
 
 B.A., [Linguistics](http://www.linguistics.ucla.edu/), May 2008
 
-## Technical
 
-**Programming Languages:**
+### Skills:
 
--Programming languages: Python, R, Octave/Matlab, Julia, Bash scripting
--Experienced with R and Python for data analysis
--Extensive experience with Unix/Linux computing environments
+**Programming Languages:** R, Python (numpy, scipy, pandas, scikit-learn), SQL, Haskell, Julia, Octave/Matlab, Stan.
+
+**Data Analysis/Machine Learning:** Linear and generalized linear models for regression and classification, data visualization, Bayesian modeling, time-series, decision trees/random forests, supervised and unsupervised clustering models, density estimation, online learning methods.
+
+**Experimental Design:** Experimental design for a/b testing and multivariate designs, power analysis.
+
 
 
 ##Experience
 
-####Research Assistant, NYU Department of Linguistics:
+**Consultant** (9/2015-present)  
+Consulting on data analysis and experimental design for social and cognitive science researchers.
 
-Assisted PIs Lisa Davidson (NYU) and Colin Wilson (Johns Hopkins) on a series of projects investigating the roles of phonetic and phonological factors in non-native speech perception.
+**Lab Manager** NYU Phonetics and Experimental Phonology Lab (5/2011-9/2015)  
+Developed data collection and analysis pipelines, provided computational support for students and faculty.
 
--Assisted in design and preparation of experimental materials and protocols
--Trained and supervised undergraduate research assistants
--Performed data processing and analysis
-
-####Lab Manager, NYU Department of Linguistics:
-
-Manager of the Phonetics and Experimental Phonology Laboratory.
-
--Maintained lab equipment
--Provided technical support for students and faculty
--Developed/updated data collection and analysis pipelines
--Maintained documentation for lab resources
+**Research Assistant** NYU Department of Linguistics (5/2011-8/2014)  
+(PIs Lisa Davidson and Colin Wilson) Project investigating phonetic and phonological factors in non-native speech perception.
 
 
-##Selected Teaching Experience
-
-####Teaching Assistant, NYU Department of Linguistics:
-
-TA for newly introduced course introducing students to concepts in language technology/ computational linguistics with Frans Adriaans and Lucas Champollion
-
-- Assisted in development of course materials
-- Built and deployed web-based platform for interactive programming assignments
-
-####Instructor/Co-organizer, NYU Department of Linguistics
-
-Co-instructor (with Tal Lizen) for a series of departmental workshops on statistical methods and data analysis
-
-- Topics ranged from basic descriptive statistics and exploratory analysis to linear and logistic regression
 
 
-##Research
 
-### Publications
+### Sample Consulting Projects:
+
+**Ultrasound analysis pipeline:** Assisted in re-building NYU PEP Lab's pipeline for processing and analyzing tongue-shape data, streamlining an existing procedure and modifying components to take advantage of improvements in available software. Replaced complex scripts with higher-level user-friendly interface covering standard use cases and where possible migrated to open-source tools freely available to students. (see \href{https://github.com/NYU-PEP}{github.com/NYU-PEP})
+
+**Data Analysis:**, Assisted researcher Nicole Holliday (NYU) in design and implementation of statistical analysis of speech data for a study of how speakers use socio-linguistic features to construct and present ethnic identity. Iterated analysis from initial data collection and exploratory analysis to building Bayesian model of individual behavior variability.
+
+**Data Analysis and Experimental Design:** Assisted in design of behavioral experiment examining perceptual errors among speakers of Mandarin, Cantonese, Japanese, and Korean. Designed an automated data processing and analysis pipeline to process raw experimental output, fit a multinomial logistic regression model to the data, and generate visualizations based on data and model.
+
+###Research
+
+#### Publications
 
 - Davidson, Lisa, Sean Martin, and Colin Wilson *Stabilizing the
 production of nonnative consonant clusters with acoustic variability*.
@@ -94,7 +74,7 @@ Journal of the Acoustical Society of America, vol. 137 pp. 856-872
 acoustic-phonetic detail on cross-language speech production*.
 Journal of Memory and Language, vol. 77, pp. 1-24
 
-### Presentations
+#### Presentations
 
 - Davidson, Lisa, Sean Martin and Colin Wilson. *Acoustic variability aids
   the interpretation of phonetic detail in cross-language speech
@@ -121,7 +101,7 @@ Journal of Memory and Language, vol. 77, pp. 1-24
   Poster presented at the 162nd Meeting of the Acoustical Society of
   America, San Diego, CA. October 2011.
 
-##Awards
+###Awards
 
 -   NSF Doctoral Dissertation Research Improvement Grant (award \#
     1349080), 2014-2015
@@ -130,4 +110,3 @@ Journal of Memory and Language, vol. 77, pp. 1-24
     Fellowship, 2014-2015
 
 -   NYU Henry McCracken Fellowship, 2009-2014
-

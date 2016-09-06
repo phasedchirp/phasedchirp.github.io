@@ -1,5 +1,5 @@
 name: Sean Martin
-markdown: maruku
+markdown: kramdown
 syntax-highlighting:
   enabled : true
   css: syntax.css

@@ -2,11 +2,12 @@
 layout: post
 title: "Project Euler problem 35 and a faster prime sieve"
 date: 2015-10-31
+use_math: true
 ---
 
 This blog has been rather neglected, but I'm getting towards the end of my batch at the [Recurse Center](https://www.recurse.com) in New York so I'm going to try updating it again.
 
-My [previous post]() showed a code-golfed prime sieve I wrote for fun in Haskell.
+My [previous post](http://phasedchirp.github.io/2015/10/31/functional-prime-sieve.html) showed a code-golfed prime sieve I wrote for fun in Haskell.
 
 {% highlight Haskell %}
 -- generate a list of prime numbers less than or equal to n

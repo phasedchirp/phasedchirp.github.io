@@ -9,8 +9,10 @@ name: CV - Sean Martin
 
 ## Contact Information
 
-\textsc{location:} Oakland, California\hfill \textsc{website:} [phasedchirp.github.io](https://phasedchirp.github.io)  
-\textsc{email:} sean.martin@nyu.edu \hfill \textsc{phone:} 510-301-2920  
+**location:** Oakland, California
+**website:** [phasedchirp.github.io](https://phasedchirp.github.io)  
+**email:** sean.martin@nyu.edu
+**phone:** 510-301-2920  
 
 
 ## Education

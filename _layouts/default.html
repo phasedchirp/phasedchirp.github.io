@@ -6,6 +6,9 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<!-- link to syntax highlighter stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/syntax.css">
+			{% if page.use_math %}
+      	{% include mathjax_support %}
+    	{% endif %}
 		</head>
 		<body>
 			<nav>
@@ -18,9 +21,9 @@
 	    		</ul>
 			</nav>
 			<div class="container">
-			
+
 			{{ content }}
-			
+
 			</div><!-- /.container -->
 			<footer>
 	    		<ul>

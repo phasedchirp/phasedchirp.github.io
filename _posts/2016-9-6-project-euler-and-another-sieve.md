@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Euler problem 35 and a faster prime sieve"
-date: 2015-10-31
+date: 2016-9-6
 use_math: true
 ---
 
@@ -29,4 +29,4 @@ isMult :: Int -> Int -> [(Int,Int)]
 isMult x u = [(x*m-2,0) | m <- [2..(u `div` x)]]
 {% endhighlight %}
 
-This version takes the vector of numbers `[2..1000000]` and sets all element that are multiples of any other number in the list to 0, taking advantage of the fact that Vector has $O(1)$ indexing and the batch update operator `//` so updates can be done much faster than recursively filtering a list. There's still some redundancy in how `isMult` generates updates, plus some less-than-ideal fiddling with indexes, so there's a lot of space for improvement, but using this instead of the [list-based version](https://gist.github.com/phasedchirp/dc3e3841c4f035bb304f289a6837ff07) took the [full solution](https://gist.github.com/phasedchirp/5d3fb6957dd397c80e3782d0b4a2f86e) from unusably slow to running in ~7 seconds.
+This version takes the vector of numbers `[2..1000000]` and sets all element that are multiples of any other number in the vector to 0, taking advantage of the fact that Vector has $O(1)$ indexing, rather than $O(n)$ for lists, and `Data.Vector`'s batch update operator `//` so updates can be staged and done all at once rather than done individually. This is not surprisingly much faster than recursively filtering a list as is done with `nubBy`. There's still some redundancy in how `isMult` generates updates, plus some less-than-ideal fiddling with indexes, so there's a lot of space for improvement, but using this instead of the [list-based version](https://gist.github.com/phasedchirp/dc3e3841c4f035bb304f289a6837ff07) took the [full solution](https://gist.github.com/phasedchirp/5d3fb6957dd397c80e3782d0b4a2f86e) from unusably slow to running in ~7 seconds.

@@ -26,7 +26,7 @@ As an alternative, I also implemented a version which used a cumulative logit mo
 
 {% gist 5d1a6cc1b22a31d4ce8b0ab6f3a36953 %}
 
-This was somewhat more complicated and slightly slower to converge, but takes into account the ordering of responses, while also incorporating smoothing. In addition, with this particular parameterization, it becomes somewhat easier to add continuous predictors (e.g. account age).
+This was somewhat more complicated and slightly slower to converge, but takes into account the ordering of responses, while also incorporating smoothing. In addition, with this particular parameterization, it becomes somewhat easier to add continuous predictors (e.g. account age), replacing the 0 in the `ordered_logistic(0,c)` with an appropriate model.
 
 
 As an alternative to the above, many sources also recommend bootstrapping, although this still doesn't address ordering of response categories or the data sparsity issues. But, combined with manual smoothing (simply adding some amount of pseudo-data to each response count), it would allow me to avoid making the distributional assumptions that I made with the parametric models here. In terms of return on effort, all of the approaches, including the analytic approximation, give quite similar results, so if you just want a quick estimate, the time required for fitting a model with MCMC might not be worth it. However, having the MCMC samples to approximate the full posterior predictive distribution also allows generation of other quantities as functions of those statistics, like estimated returns or turnover rate.

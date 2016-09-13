@@ -41,7 +41,7 @@ B.A., [Linguistics](http://www.linguistics.ucla.edu/), May 2008
 
 
 
-##Experience
+## Experience
 
 **Consultant** (9/2015-present)  
 Consulting on data analysis and experimental design for social and cognitive science researchers.
@@ -64,7 +64,7 @@ Developed data collection and analysis pipelines, provided computational support
 
 **Data Analysis and Experimental Design:** Assisted in design of behavioral experiment examining perceptual errors among speakers of Mandarin, Cantonese, Japanese, and Korean. Designed an automated data processing and analysis pipeline to process raw experimental output, fit a multinomial logistic regression model to the data, and generate visualizations based on data and model.
 
-###Research
+### Research:
 
 #### Publications
 
@@ -103,7 +103,7 @@ Journal of Memory and Language, vol. 77, pp. 1-24
   Poster presented at the 162nd Meeting of the Acoustical Society of
   America, San Diego, CA. October 2011.
 
-###Awards
+### Awards
 
 -   NSF Doctoral Dissertation Research Improvement Grant (award \#
     1349080), 2014-2015

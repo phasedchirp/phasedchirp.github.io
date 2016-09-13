@@ -22,11 +22,7 @@ $$NPS_{mcmc} = \sum_{i=10}^{11}\theta_i - \sum_{i=0}^{6}\theta_i$$
 
 Confidence/credible intervals are then estimated using posterior predictive simulations (the `generated quantities` block in the code). By modeling the responses as conditional on some set of demographic variables or other information, it's also possible to compare response patterns for different groups of interest. This is convenient and easy to work with, but ignores the fact that, for example, a 1 and a 2 are more similar than a 1 and a 9. As currently implemented, it's also difficult to condition on continuous predictors.
 
-As an alternative, I also implemented a version which used a cumulative logit model:
-
-$$r \sim cumulative_logit(\theta)$$
-
-$$\theta \sim dirichlet(\alpha)$$
+As an alternative, I also implemented a version which used a cumulative logit model. This models the responses using a series of cutpoints which give the probability that x is less than or equal to some value:
 
 {% gist 5d1a6cc1b22a31d4ce8b0ab6f3a36953 %}
 

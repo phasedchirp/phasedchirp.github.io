@@ -6,7 +6,7 @@ name: CV - Sean Martin
 # Sean C. Martin
 
 -----------------------------------------
-
+[pdf](https://phasedchirp.github.io/miscFiles/martin_resume.pdf)
 ## Contact Information
 
 **location:** Oakland, California
@@ -23,8 +23,7 @@ Ph.D., [Linguistics](http://linguistics.as.nyu.edu/), September 2015
 
 Dissertation: [*Bias in novel category learning*](https://dl.dropboxusercontent.com/u/24464501/Martin_diss_DRAFT.pdf)
 
-Advisors: [Lisa Davidson](https://wp.nyu.edu/lisa_davidson/), [Frans
-Adriaans](https://files.nyu.edu/fa46/public/)
+Advisors: [Lisa Davidson](https://wp.nyu.edu/lisa_davidson/), [Frans Adriaans](https://files.nyu.edu/fa46/public/)
 
 **University of California, Los Angeles**, Los Angeles, CA
 

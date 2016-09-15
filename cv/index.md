@@ -6,7 +6,7 @@ name: CV - Sean Martin
 # Sean C. Martin
 
 -----------------------------------------
-[pdf](https://phasedchirp.github.io/miscFiles/martin_resume.pdf)
+[pdf](https://phasedchirp.github.io/miscFiles/martin_resume.pdf) 
 ## Contact Information
 
 **location:** Oakland, California

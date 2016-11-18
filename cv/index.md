@@ -58,7 +58,7 @@ Developed data collection and analysis pipelines, provided computational support
 
 ### Sample Consulting Projects:
 
-**Ultrasound analysis pipeline:** Assisted in re-building NYU PEP Lab's pipeline for processing and analyzing tongue-shape data, streamlining an existing procedure and modifying components to take advantage of improvements in available software. Replaced complex scripts with higher-level user-friendly interface covering standard use cases and where possible migrated to open-source tools freely available to students. (see \href{https://github.com/NYU-PEP}{github.com/NYU-PEP})
+**Ultrasound analysis pipeline:** Assisted in re-building NYU PEP Lab's pipeline for processing and analyzing tongue-shape data, streamlining an existing procedure and modifying components to take advantage of improvements in available software. Replaced complex scripts with higher-level user-friendly interface covering standard use cases and where possible migrated to open-source tools freely available to students. (see [https://github.com/NYU-PEP](github.com/NYU-PEP))
 
 **Data Analysis:**, Assisted researcher Nicole Holliday (NYU) in design and implementation of statistical analysis of speech data for a study of how speakers use socio-linguistic features to construct and present ethnic identity. Iterated analysis from initial data collection and exploratory analysis to building Bayesian model of individual behavior variability.
 

@@ -20,36 +20,52 @@ name: CV - Sean Martin
 
 #### Education:
 
-**PhD**, Linguistics New York University (September 2015): Research focused on speech perception and quantitative methods in behavioral research, in addition to integrating tools from machine learning to build computational models of cognitive processes.
+ **PhD**, Linguistics. New York University (September 2015)  
 
-**BA**, Linguistics University of California, Los Angeles (May, 2008)
+
+* Speech perception, quantitative methods, and using machine learning to understand cognitive processes.
+
+**BA**, Linguistics. University of California, Los Angeles (May 2008)
 
 #### Programming Languages:
 
-R, Python, SQL, Stan, Julia, Octave/Matlab.
+Applied Statistics and Machine learning, Bayesian methods, Experimental Design, Data Visualization.
+Programming experience in R, Python, SQL, Stan, Julia, SAS, Octave/Matlab.
 
 
 #### Experience:
 
-**Business Analyst** Kaiser Permanente (5/2017-present)
-Data analysis and predictive analytics for large-scale healthcare data. Integrating predictive modeling tools into ETL processes handling data for millions of Kaiser members. Developing automated and interactive anomaly detection tools to monitor data source quality.
+**Kaiser Foundation Health Plan** (May 2017-present)
 
-**Consultant** (9/2015-5/2017)  
-Built to provide automated, reproduceable, and interpretable data analysis pipelines for academic researchers and businesses. Worked closely with clients to develop quantitative models that addressed their business or research questions and constructed data pipelines that processed their raw data into interpretable summaries and visualizations. Projects included:
+> *Business Analyst*: Data analysis and predictive analytics for large-scale healthcare data.
 
-* Bayesian modeling of individual behavior and contextual variability to examine how speakers use socio-linguistic features to construct and present ethnic identity.
-* Designed and built a webservice for reproduceable analysis of SEO data for RankScience. Developed initial design documents, then built and deployed this tool as a webservice using Amazon's Elastic Beanstalk platform for production use.
+> * Integrate predictive modeling tools production ETL processes using SAS/SQL to forecast usage and costs for millions of customers during expansion of Kaiser's data infrastructure.
+* Build automated and interactive anomaly detection in SAS and R to monitor data source quality.
+* Introduce version control and other development best practices into team workflows.
+* Work to build shared resources and reduce duplication across several predictive modeling projects.
 
+**Consultant** (September 2015 -- May 2017)
 
-**Lab Manager** NYU Phonetics and Experimental Phonology Lab (5/2011-9/2015)  
-Developed data collection and analysis pipelines, provided computational support for students and faculty.
+> Worked with clients to build automated, reproducible, and interpretable data analysis pipelines addressing academic and business needs from ingesting raw data to interpretable output. Projects included:
 
-* Re-built NYU PEP Lab's pipeline for processing and analyzing tongue-shape data, streamlining procedures and reducing space for analysis errors.
-* Replaced complex scripts with higher-level user-friendly interface covering standard use cases and where possible migrated to open-source tools freely available to students.
+> * Bayesian modeling of individual behavior and contextual variability to examine how speakers use socio-linguistic features to construct and present ethnic identity.
+* Designed/prototyped/iterated to deployment a web service for reproducible analysis of SEO data for RankScience. Deployed in production using Amazon's Elastic Beanstalk platform.
 
+**Recurse Center** (July 2016 -- September 2016)
 
-**Research Assistant** NYU Department of Linguistics (5/2011-8/2014)  
-(PIs Lisa Davidson and Colin Wilson, NSF Grant 1052784) Project investigated phonetic and phonological factors in non-native speech perception.
+> Self-directed continuing education in programming. Projects included:
+
+> * Prototype tools for real-time/streaming data analysis and machine learning in Haskell.
+* Satirical random number generator using real-time Twitter data as an entropy source.
+
+**NYU Phonetics and Experimental Phonology (PEP) Lab** (May 2011 -- September 2015)
+
+> *Lab Manager*: Developed data collection and analysis pipelines, consulting for students and faculty.
+
+> * Re-built and streamlined tongue-shape analysis pipeline, reduced space for user error, and improved statistical graphics.
+* Migrated lab processes to open-source tools freely available to students.
+
+> *Research Assistant*: Investigated phonetic and phonological factors in non-native speech perception. PIs Lisa Davidson and Colin Wilson, NSF Grant 1052784
 
 
 #### Publications:

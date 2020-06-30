@@ -21,9 +21,6 @@ name: Books
  * The Salmon of Doubt
  * Dirk Gently's Wholistic Detective Agency
 
-### Katherine Addison:
------------------------------
- * The Goblin Emperor
 
 ### Charlie Jane Anders:
 -----------------------------
@@ -39,11 +36,6 @@ name: Books
  * We Never Talk About My Brother
  * Summerlong
 
-### Elizabeth Bear:
------------------------------
- * Ancestral Night
- * The Stone in the Skull
- * The Red-stained Wings
 
 ### Holly Black:
 -----------------------------

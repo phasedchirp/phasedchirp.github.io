@@ -13,7 +13,7 @@ name: CV - Sean Martin
 
 **website**: [phasedchirp.github.io](https://phasedchirp.github.io)
 
-**email**: phasedchirp2719@gmail.com
+**email**: phasedchirp2718@gmail.com
 
 **phone**: 1-510-301-2920  
 

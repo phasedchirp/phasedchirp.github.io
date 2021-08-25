@@ -13,9 +13,9 @@ name: CV - Sean Martin
 
 **website**: [phasedchirp.github.io](https://phasedchirp.github.io)
 
-**email**: sean.martin@nyu.edu
+**email**: phasedchirp2719@gmail.com
 
-**phone**: 510-301-2920  
+**phone**: 1-510-301-2920  
 
 
 #### Education:
@@ -30,19 +30,20 @@ name: CV - Sean Martin
 #### Programming Languages:
 
 Applied Statistics and Machine learning, Bayesian methods, Experimental Design, Data Visualization.
-Programming experience in R, Python, SQL, Stan, Julia, SAS, Octave/Matlab.
+Programming experience in R, Python, SQL, SAS.
 
 
 #### Experience:
 
-**Kaiser Foundation Health Plan** (May 2017-present)
+**Kaiser Foundation Health Plan** (Business Analyst Intermediate 5/17-4/19, Senior 4/19-present):
 
-> *Business Analyst*: Data analysis and predictive analytics for large-scale healthcare data.
+> Data science and data engineering for large-scale healthcare data.
 
-> * Integrate predictive modeling tools production ETL processes using SAS/SQL to forecast usage and costs for millions of customers during expansion of Kaiser's data infrastructure.
-* Build automated and interactive anomaly detection in SAS and R to monitor data source quality.
-* Introduce version control and other development best practices into team workflows.
-* Work to build shared resources and reduce duplication across several predictive modeling projects.
+> * Building interactive web-based tools using R, Shiny, and MS Synapse to enable self-service analytics for clinical staff seeking to evaluate program outcomes.
+* Rebuilt and streamlined legacy data pipelines during large-scale expansion of data infrastructure to introduce consistent logic for claims data processing across all Kaiser regions.
+* Integrated predictive modeling into data pipelines using SAS to forecast
+costs and service volumes for external claims.
+* Built tools for interactive anomaly detection, visualization, and analysis in SAS and R.
 
 **Consultant** (September 2015 -- May 2017)
 
@@ -58,14 +59,13 @@ Programming experience in R, Python, SQL, Stan, Julia, SAS, Octave/Matlab.
 > * Prototype tools for real-time/streaming data analysis and machine learning in Haskell.
 * Satirical random number generator using real-time Twitter data as an entropy source.
 
-**NYU Phonetics and Experimental Phonology (PEP) Lab** (May 2011 -- September 2015)
+**NYU Phonetics and Experimental Phonology (PEP) Lab** (Lab Manager/RA May 2011 -- September 2015)
 
-> *Lab Manager*: Developed data collection and analysis pipelines, consulting for students and faculty.
+* Developed data collection and analysis pipelines, consulting for students and faculty.
+* Re-built tongue-shape analysis pipeline. Streamlined procedures and reduced space for user error.
+* Migrated analysis pipelines to open-source tools.
+* Investigated phonetic and phonological factors in non-native speech perception, supervised undergraduate RAs. PIs Lisa Davidson and Colin Wilson, NSF Grant 1052784
 
-> * Re-built and streamlined tongue-shape analysis pipeline, reduced space for user error, and improved statistical graphics.
-* Migrated lab processes to open-source tools freely available to students.
-
-> *Research Assistant*: Investigated phonetic and phonological factors in non-native speech perception. PIs Lisa Davidson and Colin Wilson, NSF Grant 1052784
 
 
 #### Publications:
